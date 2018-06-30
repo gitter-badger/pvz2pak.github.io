@@ -479,11 +479,11 @@ img {
 }
 
 .feature.alpha .illustration {
-  background-image: url(/images/home-feature-1.jpg);
+  background-image: url(/images/home-feature-1.svg);
 }
 
 .feature.beta .illustration {
-  background-image: url(/images/home-feature-2.jpg);
+  background-image: url(/images/home-feature-2.svg);
 }
 
 .feature.gamma .illustration {
@@ -495,11 +495,11 @@ img {
 }
 
 .no-svg .feature.alpha .illustration {
-  background-image: url(/images/home-feature-1.png);
+  background-image: url(/images/home-feature-1.jpg);
 }
 
 .no-svg .feature.beta .illustration {
-  background-image: url(/images/home-feature-2.png);
+  background-image: url(/images/home-feature-2.jpg);
 }
 
 .no-svg .feature.gamma .illustration {
